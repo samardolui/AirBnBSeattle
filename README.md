@@ -1,5 +1,5 @@
 # What data tells us about how Airbnb is being used in Seattle. 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/samardolui/AirBnBSeattle/master/cover_image.jpg)
 
 ### Table of Contents
 
